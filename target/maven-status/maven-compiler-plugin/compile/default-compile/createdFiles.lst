@@ -1,0 +1,9 @@
+dao\BookDao.class
+config\MyWebAppInitializer.class
+config\WebConfig.class
+service\BookServiceImp.class
+controller\BookController.class
+dao\BookDaoImp.class
+model\Book.class
+service\BookService.class
+config\AppConfig.class
